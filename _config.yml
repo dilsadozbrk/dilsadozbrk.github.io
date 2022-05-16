@@ -18,11 +18,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Brussels, Belgium"
 resume_url: /docs/Dilsad_Ozuberk_CV_170522.pdf
-avatar_image: /img/profile_pict.JPG
+avatar_image: /img/profile_picture.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/dilsadozuberk" # Add your linkedln handle
+linkedln: "https://linkedln.com/in/dilsadozuberk/" # Add your linkedln handle
 github: "https://github.com/dilsadozbrk"  # Add your github handle
 
 paginate: 6
