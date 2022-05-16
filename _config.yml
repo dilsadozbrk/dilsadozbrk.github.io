@@ -22,7 +22,7 @@ avatar_image: /img/profile_picture.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/dilsadozuberk/" # Add your linkedln handle
+linkedln: "http://www.linkedin.com/in/dilsadozuberk" # Add your linkedln handle
 github: "https://github.com/dilsadozbrk"  # Add your github handle
 
 paginate: 6
