@@ -2,7 +2,7 @@
 layout: post
 title: API Deployment for Real Estate Price Prediction Model
 image: "/posts/price_prediction.jpg"
-tags: [Python, Linear_Regression]
+tags: [Python, Linear_Regression, FlaskAPI]
 ---
 
 # API_Deployment
@@ -10,12 +10,7 @@ This API provides predictions from a machine learning model for the real estates
 
 The program was written in Python 3.9. and deployed in Heroku in order to be used by web-devolopers to create website around it.
 
-## Project Guidelines
-
-- Repository: `challenge-api-deployment`
-- Type of Challenge: `Learning`
-- Duration: `5 days`
-- Team challenge : `Solo`
+[Project Repo Link](https://github.com/dilsadozbrk/API_Deployment)
 
 ## Technologies / Libraries 
 
