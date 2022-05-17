@@ -2,7 +2,7 @@
 layout: post
 title: API Deployment for Real Estate Price Prediction Model
 image: "/posts/price_prediction.jpg"
-tags: [Python, Linear_Regression, FlaskAPI]
+tags: [Python, Linear Regression, FlaskAPI, Deployment]
 ---
 
 # API_Deployment
