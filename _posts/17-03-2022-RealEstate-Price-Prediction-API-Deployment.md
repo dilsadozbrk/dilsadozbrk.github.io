@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API Deployment for Real Estate Price Predictor
+title: API Deployment for Real Estate Price Prediction Model
 image: "/posts/price_prediction.jpg"
 tags: [Python, Linear_Regression]
 ---
