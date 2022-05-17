@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Finding Prime Numbers with Python
-image: "/posts/pprice_prediction.jpg"
-tags: [Python, Primes]
+title: API Deployment for Real Estate Price Predictor
+image: "/posts/price_prediction.jpg"
+tags: [Python, Linear_Regression]
 ---
 
 # API_Deployment
